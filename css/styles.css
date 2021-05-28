@@ -10,7 +10,7 @@ h1 {
   color: rgb(175, 64, 101);
   margin: 12 px;
   padding: 15px;
-  border: solid 10px wheat;
+  border: solid 10px goldenrod;
 }
 
 h2 {
@@ -46,8 +46,8 @@ h2 {
   margin: 12 px;
   border: solid 10px goldenrod;
   padding: 15px;
+  padding-top: 5px;
   padding-bottom: 5px;
-  background-color: ;
   display: block;
 }
 

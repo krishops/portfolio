@@ -2,6 +2,10 @@ body {
   padding: 5%;
 }
 
+text {
+  width: 100%;
+}
+
 h1 {
   text-align: center;
   color: palevioletred;
@@ -11,15 +15,29 @@ h2 {
   text-align: left;
   color: black;
   padding-bottom: 15px;
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
 }
 
 h3 {
   padding-top: 10px;
 }
 
+.container{
+  padding-top: 30px;
+}
+
+.row {
+  width: 100%;
+}
 .column {  
-  width: 20%;
-  float: none;
+  width: 300px;
+  float: left;
   padding: 5px;
 }
 

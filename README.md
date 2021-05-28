@@ -22,8 +22,7 @@ This webpage is a portfolio and resume for Kristen Hopper. It houses links to we
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* There are no known bugs in this webpage
 
 ## License
 

@@ -20,9 +20,6 @@ This webpage is a portfolio and resume for Kristen Hopper. It houses links to we
 * Access repository commits by going to https://github.com/krishops/portfolio/commits/main
 * Access live version of webpage by going to https://krishops.github.io/portfolio
 
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
-
 ## Known Bugs
 
 * _Any known issues_
@@ -31,6 +28,7 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
+
 Copyright (c) Kristen Hopper
 
 ## Contact Information

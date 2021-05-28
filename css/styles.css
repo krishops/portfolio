@@ -1,10 +1,15 @@
 body {
   padding: 5%;
+  background-color: lightcyan;
 }
+
 
 h1 {
   text-align: center;
   color: palevioletred;
+  margin: 12 px;
+  padding: 15px;
+  background-color: wheat;
 }
 
 h2 {
@@ -31,7 +36,22 @@ h3 {
   background-color: gray;
 }
 
+img {
+  width: 300px;
+  height: 300px;
+  margin: 12 px;
+  border: solid 0px;
+  padding: 15px;
+  background-color: wheat;
+  float: right;
+}
 
+.photo {
+  margin: 12 px;
+  border: solid 0px;
+  padding: 15px;
+  background-color: wheat;
+}
 
 a {
   color: palevioletred;

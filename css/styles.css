@@ -1,5 +1,38 @@
-.column{
+body {
+  padding: 5%;
+}
+
+h1 {
+  text-align: center;
+  color: palevioletred;
+}
+
+h2 {
+  text-align: left;
+  color: black;
+  padding-bottom: 15px;
+}
+
+h3 {
+  padding-top: 10px;
+}
+
+.column {  
   width: 20%;
-  float: left;
+  float: none;
   padding: 5px;
+}
+
+.about-me {
+  margin: 12 px;
+  border: solid 10px goldenrod;
+  padding: 15px;
+  padding-bottom: 5px;
+  background-color: gray;
+}
+
+
+
+a {
+  color: palevioletred;
 }

@@ -1,31 +1,45 @@
 body {
   padding: 5%;
   background-color: lightcyan;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 
 h1 {
   text-align: center;
-  color: palevioletred;
+  color: rgb(175, 64, 101);
   margin: 12 px;
   padding: 15px;
-  background-color: wheat;
+  border: solid 10px wheat;
 }
 
 h2 {
   text-align: left;
   color: black;
-  padding-bottom: 15px;
 }
 
-h3 {
-  padding-top: 10px;
-}
-
-.column {  
+.column1 {  
   width: 20%;
-  float: none;
-  padding: 5px;
+  float: left;
+  padding: 5px; 
+}
+
+.column2 {
+  width: 20%;
+  float: left;
+  padding: 5px; 
+}
+
+.column3 {
+  width: 20%;
+  float: left;
+  padding: 5px; 
+}
+
+.column4 {
+  width: 20%;
+  float: left;
+  padding: 5px; 
 }
 
 .about-me {
@@ -33,17 +47,15 @@ h3 {
   border: solid 10px goldenrod;
   padding: 15px;
   padding-bottom: 5px;
-  background-color: gray;
+  background-color: ;
+  display: block;
 }
 
 img {
   width: 300px;
   height: 300px;
-  margin: 12 px;
-  border: solid 0px;
-  padding: 15px;
-  background-color: wheat;
-  float: right;
+  border: solid 10px rgb(175, 64, 101);
+  float: center;
 }
 
 .photo {
@@ -54,5 +66,5 @@ img {
 }
 
 a {
-  color: palevioletred;
+  color: rgb(175, 64, 101);
 }

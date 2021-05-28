@@ -31,6 +31,7 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
+
 Copyright (c) Kristen Hopper
 
 ## Contact Information

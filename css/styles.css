@@ -2,7 +2,7 @@ body {
   padding: 5%;
 }
 
-text {
+p {
   width: 100%;
 }
 
@@ -14,14 +14,6 @@ h1 {
 h2 {
   text-align: left;
   color: black;
-  padding-bottom: 15px;
-  display: block;
-  font-size: 1.5em;
-  margin-block-start: 0.83em;
-  margin-block-end: 0.83em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  font-weight: bold;
 }
 
 h3 {
@@ -35,13 +27,32 @@ h3 {
 .row {
   width: 100%;
 }
-.column {  
-  width: 300px;
+.column1 {  
+  width: 20%;
   float: left;
-  padding: 5px;
+  padding: 5px; 
+}
+
+.column2 {
+  width: 20%;
+  float: left;
+  padding: 5px; 
+}
+
+.column3 {
+  width: 20%;
+  float: left;
+  padding: 5px; 
+}
+
+.column4 {
+  width: 20%;
+  float: left;
+  padding: 5px; 
 }
 
 .about-me {
+  float:inline-end;
   margin: 12 px;
   border: solid 10px goldenrod;
   padding: 15px;

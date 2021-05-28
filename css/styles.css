@@ -44,25 +44,7 @@ img {
   font-variant: small-caps;
 }
 
-.column1 {  
-  width: 20%;
-  float: left;
-  padding: 10px; 
-}
-
-.column2 {
-  width: 20%;
-  float: left;
-  padding: 10px; 
-}
-
-.column3 {
-  width: 20%;
-  float: left;
-  padding: 10px; 
-}
-
-.column4 {
+.column {  
   width: 20%;
   float: left;
   padding: 10px; 

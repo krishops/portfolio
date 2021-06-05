@@ -21,7 +21,7 @@ This webpage is a portfolio and resume for Kristen Hopper. It houses links to we
 2. Within the new directory, run `git clone https://github.com/krishops/portfolio.git` in the terminal to clone the project files to a local repository.
 2. Open the project within a code editor, such as Visual Studio Code, to make changes to the project. 
 
-* [Click here](https://github.com/krishops/portfolio.git) to access a live version of the project.
+* [Click here](https://krishops.github.io/portfolio) to access a live version of the project.
 
 ## Known Bugs
 

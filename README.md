@@ -19,7 +19,7 @@ This webpage is a portfolio and resume for Kristen Hopper. It houses links to we
 
 1. Create an empty directory with no local repository. 
 2. Within the new directory, run `git clone https://github.com/krishops/portfolio.git` in the terminal to clone the project files to a local repository.
-2. Open the project within a code editor, such as Visual Studio Code, to make changes to the project. 
+3. Within the top level of the cloned directory, open porfolio/index.html to run the program in the browser. 
 
 * [Click here](https://krishops.github.io/portfolio) to access a live version of the project.
 
